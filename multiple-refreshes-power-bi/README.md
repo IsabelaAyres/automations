@@ -1,7 +1,7 @@
 # How to use Python to get real-time refreshes in Power BI
 
 ### Imagine the following scenario:
-😍You have built an amazing Power BI Dashboard that brings the exactly insights your client/ company needs;
+😍You have built an amazing Power BI Dashboard that brings the exact insights your client/ company needs;
 
 😣But here's the thing… you need the data to be updated every 5 minutes, and the refresh limit for Power BI is 8 times a day!
 
@@ -16,11 +16,13 @@ Check out the solution's steps:
 | 2 | Put this function inside a loop that runs until a defined time of day, following a specific pause time  |
 
 ### Links:
+**First steps with Chromedriver with Selenium:** https://www.hashtagtreinamentos.com/automacao-web-no-python
+
 **Selenium Documentation:** https://www.selenium.dev/documentation/
 
-**Chromedriver:** https://chromedriver.chromium.org/downloads]
+**Chromedriver:** https://chromedriver.chromium.org/downloads
 
-**First steps with Chromedriver with Selenium:** https://www.hashtagtreinamentos.com/automacao-web-no-python
+
 
 
 ### Let's get started!
