@@ -1,10 +1,11 @@
-# Do you need real-time refreshes on your dashboard but don't want to spend money with a premium account?
-### Follow me and see how we can use Python to achieve this!
-#
+# How to use Python to get real-time refreshes in Power BI
 
-😒**The problem:** limited amount of refreshes in PRO account
+### Imagine the following scenario:
+😍You have built an amazing Power BI Dashboard that brings the exactly insights your client/ company needs;
 
-😍**The solution:** use the Selenium library to create an automation in Python
+😣But here's the thing… you need the data to be updated every 5 minutes, and the refresh limit for Power BI is 8 times a day!
+
+##### Follow me and see how we can use Python to achieve this!
 
 
 Check out the solution's steps:
@@ -17,7 +18,9 @@ Check out the solution's steps:
 ### Links:
 **Selenium Documentation:** https://www.selenium.dev/documentation/
 
-**Chromedriver:** https://chromedriver.chromium.org/downloads
+**Chromedriver:** https://chromedriver.chromium.org/downloads]
+
+**First steps with Chromedriver with Selenium:** https://www.hashtagtreinamentos.com/automacao-web-no-python
 
 
 ### Let's get started!
