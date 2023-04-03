@@ -26,7 +26,9 @@ Check out the solution's steps:
 
 **Chromedriver:** https://chromedriver.chromium.org/downloads
 
-
-
-
 ### Let's get started!
+
+
+> **Developers:**
+>  Isabela Ayres (https://www.linkedin.com/in/ayresisabela/)
+>  Fabrício Bielinski (https://www.linkedin.com/in/fabr%C3%ADcio-bielinski-50b8ab204/)
