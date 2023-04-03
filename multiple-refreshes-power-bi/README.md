@@ -20,11 +20,11 @@ Check out the solution's steps:
 #
 
 ### Links:
-**First steps with Chromedriver with Selenium:** https://www.hashtagtreinamentos.com/automacao-web-no-python
+First steps with Chromedriver with Selenium: https://www.hashtagtreinamentos.com/automacao-web-no-python
 
-**Selenium Documentation:** https://www.selenium.dev/documentation/
+Selenium Documentation: https://www.selenium.dev/documentation/
 
-**Chromedriver:** https://chromedriver.chromium.org/downloads
+Chromedriver: https://chromedriver.chromium.org/downloads
 
 ### Let's get started!
 
@@ -32,6 +32,6 @@ Check out the solution's steps:
 
 > **Developers:**
 > 
->  Isabela Ayres (https://www.linkedin.com/in/ayresisabela/)
+>  **Isabela Ayres** (https://www.linkedin.com/in/ayresisabela/)
 >  
->  Fabrício Bielinski (https://www.linkedin.com/in/fabr%C3%ADcio-bielinski-50b8ab204/)
+>  **Fabrício Bielinski** (https://www.linkedin.com/in/fabr%C3%ADcio-bielinski-50b8ab204/)
