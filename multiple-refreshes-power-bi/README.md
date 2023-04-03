@@ -8,7 +8,7 @@
 ##### Follow me and see how we can use Python to achieve this!
 
 
-Check out the solution's steps:
+Check the solution's steps:
 
 | Step  | Description |
 | :---:  | --- |
