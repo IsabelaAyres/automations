@@ -14,5 +14,8 @@ Check out the solution's steps:
 | 1 | Create a function that automatically enters the Power BI Dashboard page and clicks the 'Refresh now' button  |
 | 2 | Put this function inside a loop that runs until a defined time of day, following a specific pause time  |
 
+Links:
+https://www.selenium.dev/documentation/
+
 
 ### Let's get started!
