@@ -15,6 +15,10 @@ Check out the solution's steps:
 | 1 | Create a function that automatically enters the Power BI Dashboard page and clicks the 'Refresh now' button  |
 | 2 | Put this function inside a loop that runs until a defined time of day, following a specific pause time  |
 
+#
+### This is part of a solution developed to get real-time data regarding an Integrated Test Dashboard of an SAP S/4HANA implementation
+#
+
 ### Links:
 **First steps with Chromedriver with Selenium:** https://www.hashtagtreinamentos.com/automacao-web-no-python
 
