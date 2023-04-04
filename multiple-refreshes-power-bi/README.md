@@ -16,7 +16,7 @@ Check the solution's steps:
 | 2 | Put this function inside a loop that runs until a defined time of day, following a specific pause time  |
 
 #
-### This is part of a solution designed to get a real-time updated Dashboard for the Integrated Test of an SAP S/4HANA implementation.
+### This is part of a solution designed to get a real-time updated Dashboard for the Integrated Tests of an SAP S/4HANA implementation.
 #
 
 ### Links:
